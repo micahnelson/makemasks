@@ -1,0 +1,59 @@
+/* /* *{font-family: 'Raleway', sans-serif;} */
+
+
+
+
+a:hover {
+  color: #0099FF;
+}
+
+a {
+  color: #191970;
+}
+
+.top-bar, .top-bar li {
+	
+	background-color: #D3F8FD;
+
+}
+
+.itemBox a:hover{
+	color: #F97807;
+}
+
+.itemBox{
+	background-color: #DCDCDC;
+	margin-bottom: 15px;
+	padding-top: 15px;
+}
+
+.itemBox:hover{
+	background-color: #D3F8FD;
+}
+
+
+.itemTitle {
+	display: table-cell;
+    vertical-align: middle;
+}
+.cta a{
+	color: white;
+}
+.cta a:hover{
+	color: black;
+}
+.cta a{
+	background-color: #F97807;
+}
+.footer{
+	margin-top: 20px;
+	color: #DCDCDC;
+}
+
+.itemDiv{
+  padding: 16px;
+}
+
+.descPic{
+	max-height: 340px;
+}
